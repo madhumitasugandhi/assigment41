@@ -1,5 +1,5 @@
 import React from 'react'
-import "./About.css"
+
 import Navbar from '../../components/Navbar/Navbar'
 import AboutImg from './about.png'
 import Footer from '../../components/Footer/Footer'
